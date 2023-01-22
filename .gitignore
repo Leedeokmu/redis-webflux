@@ -32,7 +32,7 @@ buildNumber.properties
 
 # Package Files #
 *.jar
-*.war
+*.warˆ
 *.nar
 *.ear
 *.zip
