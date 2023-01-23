@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.5.2/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redis-performance2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redis-spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redis-spring2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redisson-test/src/main/java" charset="UTF-8" />

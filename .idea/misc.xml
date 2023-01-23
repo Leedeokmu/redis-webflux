@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/redisson-playground/pom.xml" />
         <option value="$PROJECT_DIR$/redisson-test/pom.xml" />
         <option value="$PROJECT_DIR$/redis-spring2/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-performance2/pom.xml" />
       </list>
     </option>
   </component>
