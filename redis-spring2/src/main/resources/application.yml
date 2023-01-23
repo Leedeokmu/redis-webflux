@@ -1,1 +1,3 @@
- 
+city:
+  service:
+    url: http://localhost:3030/open-city-api/
