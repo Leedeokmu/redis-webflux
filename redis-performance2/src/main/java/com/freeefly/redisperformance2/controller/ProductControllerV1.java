@@ -1,7 +1,7 @@
 package com.freeefly.redisperformance2.controller;
 
 import com.freeefly.redisperformance2.entity.Product;
-import com.freeefly.redisperformance2.service.ProductService;
+import com.freeefly.redisperformance2.service.ProductServiceV1;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -12,10 +12,10 @@ import reactor.core.publisher.Mono;
 
 @RequiredArgsConstructor
 @RestController
-@RequestMapping("product")
-public class ProductController {
+@RequestMapping("product/v1")
+public class ProductControllerV1 {
 
-    private final ProductService service;
+    private final ProductServiceV1 service;
 
     @GetMapping("{id}")
     public Mono<Product> getProduct(@PathVariable int id) {

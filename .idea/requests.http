@@ -7,3 +7,6 @@ GET localhost:3030/open-city-api
 ### 도시 정보 조회 from 서비스
 GET localhost:8080/city/99927
 
+### 상품 조회
+GET localhost:8080/product/v2/3
+
